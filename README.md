@@ -1,7 +1,7 @@
 The guide goes throught steps required to setup Specflow-based test automation project in order to work with Report Portal. To keep this guide focus on Report Portal integration with Specflow, info needed to setup adjacent tools is rather provided by references to a dedicated resources than reviewed directly with steps needed.
 
 # Setting up Report Portal
-# welcome to mirroring
+# welcome to GITLAB - GITHUB mirroring
 
 - install Report Portal
 
